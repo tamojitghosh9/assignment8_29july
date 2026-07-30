@@ -86,6 +86,8 @@ The trained model achieved excellent classification performance, with high preci
 
 ---
 
+## OBSERVATIONS added as markdown cells at the end of Jupyter notebook
+
 ## Conclusion
 
 This project demonstrates the effectiveness of Artificial Neural Networks for handwritten digit recognition. By combining proper data preprocessing, normalization, and a multi-layer ANN architecture, the model successfully classifies handwritten digits with high accuracy. The evaluation metrics and learning curves indicate strong model performance and good convergence. Such systems can be effectively applied in postal code recognition, automated document processing, banking applications, and optical character recognition (OCR), reducing manual effort while improving speed and accuracy.
