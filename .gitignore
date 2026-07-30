@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+mnist_test.csv
+mnist_train.csv
+
 # C extensions
 *.so
 
